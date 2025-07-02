@@ -1,20 +1,18 @@
-<h1 align="center">Hello, I'm Rafi 👋</h1>
+<h1 align="center">Hi there, I'm Fahmi 👋</h1>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RafiAkem.RafiAkem&"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafiakem&label=Profile+Views&color=blue&style=flat" alt="Profile views"/>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafiAkem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafiAkem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fahmi-ramadhan&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiakem&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="Fahmi's GitHub stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiakem&theme=transparent&show_icons=true&layout=compact&hide_border=true" alt="Top Languages"/>
+  
 </div>
-
-
-<br/>  
 
 
 ## Languages and Tools  
