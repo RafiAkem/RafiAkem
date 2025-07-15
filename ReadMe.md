@@ -6,9 +6,9 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fahmi-ramadhan&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafiakem&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiakem&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="Fahmi's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiakem&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="Rafi's Github Stats"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiakem&theme=transparent&show_icons=true&layout=compact&hide_border=true" alt="Top Languages"/>
   
